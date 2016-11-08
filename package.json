@@ -1,0 +1,37 @@
+{
+  "name": "universe-altair",
+  "version": "1.0.0",
+  "description": "universe-altair",
+  "main": "lib/index.js",
+  "author": {
+    "name": "Ethan Nguyen",
+    "url": "https://github.com/ethannguyen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ethannguyens/universe-altair.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ethannguyens/universe-altair/issues"
+  },
+  "homepage": "https://github.com/ethannguyens/universe-altair",
+  "dependencies": {},
+  "devDependencies": {
+    "electrode-archetype-react-component": "^1.0.0",
+    "electrode-archetype-react-component-dev": "^1.0.0",
+    "gulp": "^3.9.1"
+  },
+  "engines": {
+    "node": "^4.2.6",
+    "npm": "^3.5.3"
+  },
+  "scripts": {
+    "prepublish": "gulp prepublish"
+  },
+  "keywords": [
+    "react",
+    "electrode",
+    "electrode-component",
+    "react-component"
+  ]
+}
